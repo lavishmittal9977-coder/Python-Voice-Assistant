@@ -74,6 +74,9 @@ Python-Voice-Assistant/
 "Hello"
 "Exit"
 ```
+## 📸 Project Demo
+
+![Voice Assistant Demo](voice-assistant-demo.png)
 
 ## ▶️ How to Run
 
